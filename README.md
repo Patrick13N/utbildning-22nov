@@ -18,5 +18,5 @@
 
 <email@me.com> // Email
 
-<https://mdg.imgix.net/assets/images/book-cover.jpg> // Image
+![Aftonbladet logo](https://cdn.aftonbladet.se/logotypes/logo-aftonbladet.svg "Aftonbladet logo") // Image
 
